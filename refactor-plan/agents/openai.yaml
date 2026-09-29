@@ -1,0 +1,5 @@
+interface:
+  display_name: "refactor-plan"
+  short_description: "Refactoring"
+policy:
+  allow_implicit_invocation: false
